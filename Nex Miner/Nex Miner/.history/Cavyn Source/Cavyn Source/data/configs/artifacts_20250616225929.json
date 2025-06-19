@@ -1,0 +1,20 @@
+{
+    "crystal_heart": {
+        "name": "Crystal Heart",
+        "desc": "Start each run with an extra life (a one-time shield).",
+        "unlock_req": {"type": "score", "value": 1000},
+        "mod": {"type": "start_with_shield"}
+    },
+    "chrono_pendant": {
+        "name": "Chrono Pendant",
+        "desc": "Focus abilities (Dash/Slow) cost 20% less.",
+        "unlock_req": {"type": "play_time", "value": 3600},
+        "mod": {"type": "focus_cost_multiplier", "value": 0.8}
+    },
+    "prospectors_charm": {
+        "name": "Prospector's Charm",
+        "desc": "All tiles have a small chance to drop a coin when destroyed.",
+        "unlock_req": {"type": "total_coins", "value": 10000},
+        "mod": {"type": "tile_coin_drop_chance", "value": 0.15}
+    }
+}

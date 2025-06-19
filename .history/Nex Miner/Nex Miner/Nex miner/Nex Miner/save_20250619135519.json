@@ -1,0 +1,76 @@
+{
+    "banked_coins": 1621,
+    "upgrades": {
+        "jumps": 2,
+        "speed": 5,
+        "item_luck": 3,
+        "coin_magnet": 4,
+        "combo_shield": 3,
+        "focus_mastery": 3,
+        "starting_item": 1,
+        "curse_reroll": 1,
+        "prophecy_clarity": 1
+    },
+    "high_score": 1800,
+    "settings": {
+        "sfx_volume": 0.1,
+        "music_volume": 0.1,
+        "screen_shake": true,
+        "resizable_window": true
+    },
+    "characters": {
+        "unlocked": [
+            "operator",
+            "infiltrator",
+            "demolitionist",
+            "generated_operative"
+        ],
+        "selected": "generated_operative"
+    },
+    "compendium": {
+        "perks": [],
+        "curses": [],
+        "items": [
+            "bomb",
+            "cube",
+            "jump",
+            "shield",
+            "hourglass",
+            "freeze"
+        ]
+    },
+    "stats": {
+        "play_time": 5126.252999980882,
+        "total_coins": 551,
+        "runs_started": 88,
+        "daily_challenge_high_score": 11
+    },
+    "biomes_unlocked": [
+        "Sector 01: The Core",
+        "Sector 02: Bio-Forge",
+        "Sector 03: Crystalline Matrix",
+        "Sector 04: The Foundry",
+        "Sector 05: The Archives"
+    ],
+    "artifacts": {
+        "unlocked": [
+            "crystal_heart",
+            "chrono_pendant"
+        ],
+        "equipped": "chrono_pendant"
+    },
+    "active_directive": null,
+    "generated_character": {
+        "id": "generated_operative",
+        "name": "Solaris",
+        "desc": "A relentless explorer driven by an insatiable thirst for the sun's energy.  Equipped for intense heat and long journeys.",
+        "unlock_cost": 0,
+        "mods": {
+            "innate_perks": [
+                "glass_cannon",
+                "feather_fall"
+            ],
+            "starting_item": "shield"
+        }
+    }
+}

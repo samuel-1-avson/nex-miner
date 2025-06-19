@@ -1,0 +1,14 @@
+[
+    {
+        "name": "The Depths", "score_req": 0, "bg_color": [22, 19, 40],
+        "bg_layers": ["data/images/background.png", "data/images/background.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "spike", "greed", "magnetic", "motherlode", "unstable"],
+        "special_spawn_rate": {"magnetic": 9}
+    },
+    {
+        "name": "Goo-Grotto", "score_req": 125, "bg_color": [19, 40, 30],
+        "bg_layers": ["data/images/background_cave.png", "data/images/background_cave.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "spike", "greed", "sticky", "motherlode", "unstable"],
+        "special_spawn_rate": {"sticky": 8}
+    }
+]

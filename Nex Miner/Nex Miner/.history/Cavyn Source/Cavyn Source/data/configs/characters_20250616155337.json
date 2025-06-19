@@ -1,0 +1,17 @@
+{
+    "cavyn": {
+        "name": "Cavyn",
+        "desc": "The balanced explorer. A reliable standard.",
+        "unlock_cost": 0,
+        "mods": {}
+    },
+    "ninja": {
+        "name": "Ninja",
+        "desc": "Agile and efficient. Starts with the Acrobat perk.",
+        "unlock_cost": 500,
+        "mods": {
+            "innate_perks": ["acrobat"],
+            "FOCUS_DASH_COST": 40
+        }
+    }
+}

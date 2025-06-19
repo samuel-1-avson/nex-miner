@@ -1,0 +1,35 @@
+{
+    "operator": {
+        "name": "Operator",
+        "desc": "The standard issue operative. Reliable and efficient.",
+        "unlock_cost": 0,
+        "mods": {}
+    },
+    "infiltrator": {
+        "name": "Infiltrator",
+        "desc": "Swift and precise. Starts with the Freerunner protocol.",
+        "unlock_cost": 500,
+        "mods": {
+            "innate_perks": ["acrobat"],
+            "FOCUS_DASH_COST": 40
+        }
+    },
+    "demolitionist": {
+        "name": "Demolitionist",
+        "desc": "An ordinance expert. Starts with a Det-Charge and the Overcharge protocol.",
+        "unlock_cost": 1500,
+        "mods": {
+            "innate_perks": ["overcharge"],
+            "starting_item": "bomb" 
+        }
+    },
+    "technomancer": {
+        "name": "Technomancer",
+        "desc": "An expert in module efficiency. Starts with the Module Recycler protocol.",
+        "unlock_cost": 2500,
+        "mods": {
+            "innate_perks": ["module_recycler"],
+            "starting_item": "random"
+        }
+    }
+}

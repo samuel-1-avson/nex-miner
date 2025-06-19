@@ -1,0 +1,20 @@
+{
+    "crystal_heart": {
+        "name": "Auxiliary Core",
+        "desc": "Start each mission with an auxiliary shield system.",
+        "unlock_req": {"type": "score", "value": 1000},
+        "mod": {"type": "start_with_shield"}
+    },
+    "chrono_pendant": {
+        "name": "Flux Capacitor",
+        "desc": "Sub-routine abilities (Dash/Chrono-Shift) cost 20% less energy.",
+        "unlock_req": {"type": "play_time", "value": 3600},
+        "mod": {"type": "focus_cost_multiplier", "value": 0.8}
+    },
+    "prospectors_charm": {
+        "name": "Scavenger's Matrix",
+        "desc": "Destroyed data-blocks have a 15% chance to drop a nanocoin.",
+        "unlock_req": {"type": "total_coins", "value": 10000},
+        "mod": {"type": "tile_coin_drop_chance", "value": 0.15}
+    }
+}

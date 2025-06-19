@@ -1,0 +1,18 @@
+{
+    "heavy_feet": {
+        "name": "Heavy Feet",
+        "desc": "Your base movement speed is reduced by 15%."
+    },
+    "brittle_blocks": {
+        "name": "Brittle Blocks",
+        "desc": "Tiles destroyed by your dash no longer grant coins."
+    },
+    "short_fuse": {
+        "name": "Short Fuse",
+        "desc": "Your combo meter depletes 50% faster."
+    },
+    "high_stakes": {
+        "name": "High Stakes",
+        "desc": "All Greed Tiles are replaced with Spike Tiles."
+    }
+}

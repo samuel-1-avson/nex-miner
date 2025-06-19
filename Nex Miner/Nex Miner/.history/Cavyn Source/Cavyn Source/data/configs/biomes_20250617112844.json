@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sector 01: The Core", "score_req": 0, "bg_color": [22, 19, 40],
+        "bg_layers": ["data/images/background.png", "data/images/background.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "spike", "greed", "magnetic", "motherlode", "unstable"],
+        "special_spawn_rate": {"magnetic": 9}
+    },
+    {
+        "name": "Sector 02: Bio-Forge", "score_req": 125, "bg_color": [19, 40, 30],
+        "bg_layers": ["data/images/background_cave.png", "data/images/background_cave.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "spike", "greed", "sticky", "motherlode", "unstable"],
+        "special_spawn_rate": {"sticky": 8}
+    },
+    {
+        "name": "Sector 03: Crystalline Matrix", "score_req": 250, "bg_color": [40, 30, 60],
+        "bg_layers": ["data/images/background.png", "data/images/background.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "greed", "unstable", "prism"],
+        "special_spawn_rate": {"prism": 10},
+        "special_entities": {"type": "data_node", "spawn_rate": 200}
+    },
+    {
+        "name": "Sector 04: The Foundry", "score_req": 500, "bg_color": [60, 25, 20],
+        "bg_layers": ["data/images/background.png", "data/images/background.png"],
+        "available_tiles": ["tile", "fragile", "bounce", "spike", "motherlode", "unstable", "geyser"],
+        "special_spawn_rate": {"geyser": 8, "spike": 6},
+        "ambient_hazard": {"type": "rising_plasma", "speed": 0.05}
+    },
+    {
+        "name": "Sector 05: The Archives", "score_req": 800, "bg_color": [20, 45, 60],
+        "bg_layers": ["data/images/background_sunken.png", "data/images/background_sunken.png"],
+        "available_tiles": ["tile", "chest", "fragile", "bounce", "sticky", "motherlode", "unstable", "geyser", "prism", "conduit", "conveyor_l", "conveyor_r"],
+        "special_spawn_rate": {"conduit": 10, "conveyor_l": 5, "conveyor_r": 5}
+    }
+]

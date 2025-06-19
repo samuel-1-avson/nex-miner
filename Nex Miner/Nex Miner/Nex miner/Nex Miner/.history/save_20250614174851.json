@@ -1,0 +1,28 @@
+{
+    "banked_coins": 10001,
+    "upgrades": {
+        "jumps": 2,
+        "speed": 5,
+        "item_luck": 3,
+        "coin_magnet": 4
+    },
+    "high_score": 1800,
+    "tutorial_completed": false,
+    "codex_discoveries": {
+        "tiles": [
+            "tile",
+            "fragile",
+            "magnetic",
+            "unstable",
+            "bounce",
+            "spike"
+        ],
+        "perks": [
+            "acrobat"
+        ],
+        "items": [
+            "cube",
+            "jump"
+        ]
+    }
+}

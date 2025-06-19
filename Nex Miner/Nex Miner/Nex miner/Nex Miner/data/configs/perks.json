@@ -1,0 +1,10 @@
+{
+    "acrobat": {"name": "Freerunner", "desc": "First jump after wall contact is amplified."},
+    "overcharge": {"name": "Chain Reaction", "desc": "Dashing through data-blocks creates a powerful explosion."},
+    "feather_fall": {"name": "Grav-Boots", "desc": "You fall 20% slower."},
+    "technician": {"name": "Piercing Rounds", "desc": "Projectiles pierce one data-block."},
+    "greedy": {"name": "Data Scraper", "desc": "Caches & Wealth-Cores drop double nanocoins."},
+    "glass_cannon": {"name": "Glass Cannon", "desc": "Faster Overclock, but results in system failure on hit."},
+    "module_recycler": {"name": "Module Recycler", "desc": "Using a module has a 25% chance to not be consumed."},
+    "safeguard": {"name": "Safeguard Protocol", "desc": "Gain 2 seconds of invulnerability after your shield breaks."}
+}

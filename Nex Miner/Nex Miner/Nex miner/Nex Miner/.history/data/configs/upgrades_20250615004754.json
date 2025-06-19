@@ -1,0 +1,6 @@
+{
+    "jumps": {"name": "Extra Jump", "desc": "Max jumps +1", "base_cost": 50, "max_level": 2},
+    "speed": {"name": "Move Speed", "desc": "Run faster", "base_cost": 40, "max_level": 5},
+    "item_luck": {"name": "Item Luck", "desc": "Better chest loot", "base_cost": 100, "max_level": 3},
+    "coin_magnet": {"name": "Coin Magnet", "desc": "Coins pull to you", "base_cost": 150, "max_level": 4}
+}

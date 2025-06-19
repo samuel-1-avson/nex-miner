@@ -1,0 +1,26 @@
+{
+    "heavy_feet": {
+        "name": "Heavy Feet",
+        "desc": "Your base movement speed is reduced by 15%."
+    },
+    "brittle_blocks": {
+        "name": "Brittle Blocks",
+        "desc": "Tiles destroyed by your dash no longer grant coins."
+    },
+    "short_fuse": {
+        "name": "Short Fuse",
+        "desc": "Your combo meter depletes 50% faster."
+    },
+    "high_stakes": {
+        "name": "High Stakes",
+        "desc": "All Greed Tiles are replaced with Spike Tiles."
+    },
+    "butter_fingers": {
+        "name": "Butter Fingers",
+        "desc": "You have a 50% chance to drop your item when using it."
+    },
+    "static_shock": {
+        "name": "Static Shock",
+        "desc": "Standing on a Conduit tile for too long will electrocute you."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "acrobat": {"name": "Acrobat", "desc": "First jump after wall contact is higher."},
+    "overcharge": {"name": "Overcharge", "desc": "Dashing through tiles creates an explosion."},
+    "feather_fall": {"name": "Feather Fall", "desc": "You fall 20% slower."},
+    "technician": {"name": "Technician", "desc": "Projectiles pierce one tile."},
+    "greedy": {"name": "Greedy", "desc": "Chests & Greed Tiles drop double coins."},
+    "glass_cannon": {"name": "Glass Cannon", "desc": "Faster combo, but instant death."}
+}

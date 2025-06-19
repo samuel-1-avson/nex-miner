@@ -1,0 +1,56 @@
+{
+    "banked_coins": 1416,
+    "upgrades": {
+        "jumps": 2,
+        "speed": 5,
+        "item_luck": 3,
+        "coin_magnet": 4,
+        "combo_shield": 3,
+        "focus_mastery": 3,
+        "starting_item": 1,
+        "curse_reroll": 1,
+        "prophecy_clarity": 1
+    },
+    "high_score": 1800,
+    "settings": {
+        "sfx_volume": 0.25,
+        "music_volume": 0.25,
+        "screen_shake": true,
+        "resizable_window": true
+    },
+    "characters": {
+        "unlocked": [
+            "operator",
+            "infiltrator",
+            "demolitionist"
+        ],
+        "selected": "operator"
+    },
+    "compendium": {
+        "perks": [],
+        "curses": [],
+        "items": [
+            "bomb",
+            "cube",
+            "jump",
+            "shield",
+            "hourglass",
+            "freeze"
+        ]
+    },
+    "stats": {
+        "play_time": 1465.7990000020957,
+        "total_coins": 362,
+        "runs_started": 37
+    },
+    "biomes_unlocked": [
+        "Sector 01: The Core"
+    ],
+    "artifacts": {
+        "unlocked": [
+            "crystal_heart"
+        ],
+        "equipped": null
+    },
+    "active_directive": null
+}

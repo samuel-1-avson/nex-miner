@@ -1,0 +1,24 @@
+{
+    "first_steps": {
+        "name": "First Protocol",
+        "desc": "Bridge the gap and reach the extraction point.",
+        "win_condition": {"type": "reach_y", "value": 14},
+        "start_layout": [
+            [[1, 15], "tile"], [[2, 15], "tile"], [[3, 15], "tile"],
+            [[7, 15], "tile"], [[8, 15], "bounce"], [[9, 15], "tile"],
+            [[8, 14], "goal"]
+        ],
+        "falling_tiles": ["tile", "fragile"]
+    },
+    "precision": {
+        "name": "Pinpoint Extraction",
+        "desc": "Only one data-block will materialize. Use it efficiently.",
+        "win_condition": {"type": "reach_y", "value": 5},
+        "lose_condition": {"type": "max_place", "value": 1},
+        "start_layout": [
+            [[5, 15], "tile"],
+            [[5, 6], "goal"]
+        ],
+        "falling_tiles": ["tile", "fragile"]
+    }
+}

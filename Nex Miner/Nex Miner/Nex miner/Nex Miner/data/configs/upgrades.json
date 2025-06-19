@@ -1,0 +1,11 @@
+{
+    "jumps": {"name": "Thruster Boost", "desc": "Max jumps +1", "base_cost": 50, "max_level": 2},
+    "speed": {"name": "Servo Speed", "desc": "Run faster", "base_cost": 40, "max_level": 5},
+    "item_luck": {"name": "Loot Optimizer", "desc": "Better cache contents", "base_cost": 100, "max_level": 3},
+    "coin_magnet": {"name": "Nanocoin Collector", "desc": "Nanocoins pull to you", "base_cost": 150, "max_level": 4},
+    "combo_shield": {"name": "Overclock Stabilizer", "desc": "Losing an Overclock resets it to a higher minimum. Once per mission.", "base_cost": 400, "max_level": 3},
+    "focus_mastery": {"name": "Focus Capacitor", "desc": "Increases max Energy and passive recharge rate.", "base_cost": 250, "max_level": 3},
+    "starting_item": {"name": "Starter Module", "desc": "Start each mission with a random basic module.", "base_cost": 750, "max_level": 1},
+    "curse_reroll": {"name": "Protocol Reroll", "desc": "Get one chance to reroll hazardous protocol options each mission.", "base_cost": 1200, "max_level": 3},
+    "prophecy_clarity": {"name": "Directive Insight", "desc": "Mainframe directives are more likely to offer better rewards.", "base_cost": 2000, "max_level": 1}
+}

@@ -1,5 +1,5 @@
 {
-    "banked_coins": 79,
+    "banked_coins": 150,
     "upgrades": {
         "jumps": 1,
         "speed": 2,
@@ -11,10 +11,10 @@
         "curse_reroll": 0,
         "prophecy_clarity": 0
     },
-    "high_score": 26,
+    "high_score": 29,
     "settings": {
-        "sfx_volume": 0.0,
-        "music_volume": 0.0,
+        "sfx_volume": 0.05,
+        "music_volume": 0.05,
         "screen_shake": true,
         "resizable_window": true
     },
@@ -31,10 +31,10 @@
         "items": []
     },
     "stats": {
-        "play_time": 2651.8710000021188,
-        "total_coins": 129,
-        "runs_started": 37,
-        "daily_challenge_high_score": 0
+        "play_time": 3472.001999999343,
+        "total_coins": 190,
+        "runs_started": 55,
+        "daily_challenge_high_score": 10
     },
     "biomes_unlocked": [
         "Sector 01: The Core",
@@ -47,15 +47,15 @@
     "active_directive": null,
     "generated_character": {
         "id": "generated_operative",
-        "name": "Omnipotent",
-        "desc": "A being of immense power, capable of warping reality itself. Commands absolute control over the environment.",
+        "name": "Wada",
+        "desc": "A swift and unpredictable operative, mastering the art of rapid movement and opportunistic grabs.",
         "unlock_cost": 0,
         "mods": {
             "innate_perks": [
-                "overcharge",
-                "glass_cannon"
+                "acrobat",
+                "greedy"
             ],
-            "starting_item": "warp"
+            "starting_item": "cube"
         }
     }
 }

@@ -1,7 +1,7 @@
 # Nex Miner
 
 <p align="center">
-  <img src="httpsa://raw.githubusercontent.com/username/repo/main/gameplay.gif" alt="Nex Miner Gameplay GIF" width="640"/>
+  <img src="https://raw.githubusercontent.com/username/repo/main/gameplay.gif" alt="Nex Miner Gameplay GIF" width="640"/>
   <br/>
   <i>An AI-Enhanced Vertical Roguelike Platformer.</i>
 </p>
@@ -47,8 +47,9 @@ To run Nex Miner locally, you will need Python 3 and an optional Google Gemini A
         ```
 
 4.  **Run the game!**
+    From the root directory of the repository, execute the following command:
     ```sh
-    python "Nex Miner.py"
+    python "Nex Miner/Nex Miner/Nex Miner/Nex miner/Nex Miner/Nex Miner.py"
     ```
 
 ### Controls

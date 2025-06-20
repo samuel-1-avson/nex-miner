@@ -1,5 +1,5 @@
 {
-    "banked_coins": 150,
+    "banked_coins": 154,
     "upgrades": {
         "jumps": 1,
         "speed": 2,
@@ -31,9 +31,9 @@
         "items": []
     },
     "stats": {
-        "play_time": 3472.001999999343,
-        "total_coins": 190,
-        "runs_started": 55,
+        "play_time": 3535.6499999991343,
+        "total_coins": 194,
+        "runs_started": 56,
         "daily_challenge_high_score": 10
     },
     "biomes_unlocked": [
@@ -47,13 +47,13 @@
     "active_directive": null,
     "generated_character": {
         "id": "generated_operative",
-        "name": "Wada",
-        "desc": "A swift and unpredictable operative, mastering the art of rapid movement and opportunistic grabs.",
+        "name": "The Greeter",
+        "desc": "A curious operative, eager to explore and make new contacts.  Starts with a helpful Cube for all situations.",
         "unlock_cost": 0,
         "mods": {
             "innate_perks": [
-                "acrobat",
-                "greedy"
+                "greedy",
+                "acrobat"
             ],
             "starting_item": "cube"
         }
